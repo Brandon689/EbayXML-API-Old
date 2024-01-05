@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerce.Domain", "Multi Platform ECommerce\ECommerce.Domain.csproj", "{67F41AF8-F258-4F00-9F62-AA9772983E75}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerce.Database", "ECommerce.Database\ECommerce.Database.csproj", "{B6BDD674-F0F4-4C14-BC15-DF2CCEAD8B7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67F41AF8-F258-4F00-9F62-AA9772983E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67F41AF8-F258-4F00-9F62-AA9772983E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67F41AF8-F258-4F00-9F62-AA9772983E75}.Debug|x64.ActiveCfg = Debug|x64
+		{67F41AF8-F258-4F00-9F62-AA9772983E75}.Debug|x64.Build.0 = Debug|x64
+		{67F41AF8-F258-4F00-9F62-AA9772983E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67F41AF8-F258-4F00-9F62-AA9772983E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67F41AF8-F258-4F00-9F62-AA9772983E75}.Release|x64.ActiveCfg = Release|x64
+		{67F41AF8-F258-4F00-9F62-AA9772983E75}.Release|x64.Build.0 = Release|x64
+		{B6BDD674-F0F4-4C14-BC15-DF2CCEAD8B7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6BDD674-F0F4-4C14-BC15-DF2CCEAD8B7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6BDD674-F0F4-4C14-BC15-DF2CCEAD8B7F}.Debug|x64.ActiveCfg = Debug|x64
+		{B6BDD674-F0F4-4C14-BC15-DF2CCEAD8B7F}.Debug|x64.Build.0 = Debug|x64
+		{B6BDD674-F0F4-4C14-BC15-DF2CCEAD8B7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6BDD674-F0F4-4C14-BC15-DF2CCEAD8B7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6BDD674-F0F4-4C14-BC15-DF2CCEAD8B7F}.Release|x64.ActiveCfg = Release|x64
+		{B6BDD674-F0F4-4C14-BC15-DF2CCEAD8B7F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE1EFD06-47DB-438E-8E0F-C0AAF40AF979}
+	EndGlobalSection
+EndGlobal

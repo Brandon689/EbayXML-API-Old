@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Multi_Platform_ECommerce</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <Platforms>x64</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="sqlite-net-pcl" Version="1.8.116" />
+    <PackageReference Include="WooCommerceNET" Version="0.8.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ECommerce.Database\ECommerce.Database.csproj" />
+  </ItemGroup>
+
+</Project>
