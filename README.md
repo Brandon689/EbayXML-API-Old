@@ -1,5 +1,9 @@
 # Multi Platform ECommerce
 
+
+DEPRECATED AND REPLACED BY https://github.com/Brandon689/eBay.API
+
+
 C# api for eBay with some sqlite database store.
 It is a few years old and I will make a better version.
 
